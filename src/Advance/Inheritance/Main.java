@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] nest) {
 
         Scanner scan = new Scanner(System.in);
-        float width;
+        float width = 0;
 
         scan.nextFloat();
 
