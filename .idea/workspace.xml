@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24812570-c5f3-4d90-acdb-ee01b3ce8c89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Arrays/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/RegularExpression/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/RegularExpression/PhoneNumberREGEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/StoringObjectsToList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/StoringObjectsToList/StudentTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance/Encapsulation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance/Encapsulation/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,52 +24,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/Advance/Encapsulation/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="563">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exersices/Payroll/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Advance/Arrays/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="90">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exersices/Payroll/PayrollTemplate.java">
+        <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1395">
-              <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+            <state relative-caret-position="240">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/StudentTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Advance/RegularExpression/PhoneNumberREGEX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="293">
-                <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Advance/RegularExpression/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/FileIO/Template.java">
+        <entry file="file://$PROJECT_DIR$/src/Advance/Arrays/Template.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="41" column="45" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,29 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Advance/Lists/ArrayList/Template.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Lists/LinkedLists/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Lists/LinkedLists/Template.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="36" selection-start-line="23" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -130,13 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Variables.java" />
-        <option value="$PROJECT_DIR$/src/Basics/Variables.java" />
-        <option value="$PROJECT_DIR$/src/Basics/VariablesTemplate.java" />
-        <option value="$PROJECT_DIR$/src/Data_Structures/Main.java" />
-        <option value="$PROJECT_DIR$/src/Data_Structures/DataStructures.java" />
-        <option value="$PROJECT_DIR$/src/DataStructures/DataStructures.java" />
-        <option value="$PROJECT_DIR$/src/ForLoop/DataStructures.java" />
         <option value="$PROJECT_DIR$/src/ForLoop/forLoop.java" />
         <option value="$PROJECT_DIR$/src/ForLoop/Main.java" />
         <option value="$PROJECT_DIR$/src/Loops/Loop.java" />
@@ -158,7 +176,6 @@
         <option value="$PROJECT_DIR$/src/Intermidiate/Methods/Template.java" />
         <option value="$PROJECT_DIR$/src/Intermidiate/Overloading/Main.java" />
         <option value="$PROJECT_DIR$/src/Intermidiate/Constructors/Template.java" />
-        <option value="$PROJECT_DIR$/src/Advance/Encapsulation/Person.java" />
         <option value="$PROJECT_DIR$/src/Advance/Encapsulation/Main.java" />
         <option value="$PROJECT_DIR$/src/Advance/Inheritance/Template.java" />
         <option value="$PROJECT_DIR$/src/Advance/Inheritance/Triangle.java" />
@@ -179,6 +196,16 @@
         <option value="$PROJECT_DIR$/src/Advance/FileIO/Template.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Advance/Encapsulation/Person.java" />
+        <option value="$PROJECT_DIR$/src/Advance/Arrays/Main.java" />
+        <option value="$PROJECT_DIR$/src/Advance/Arrays/Template.java" />
+        <option value="$PROJECT_DIR$/src/Advance/Main.java" />
+        <option value="$PROJECT_DIR$/src/Advance/StoringObjectsToList/Student.java" />
+        <option value="$PROJECT_DIR$/src/Advance/StoringObjectsToList/Student1.java" />
+        <option value="$PROJECT_DIR$/src/Advance/StoringObjectsToList/Main.java" />
+        <option value="$PROJECT_DIR$/src/Advance/StoringObjectsToList/StudentTemplate.java" />
+        <option value="$PROJECT_DIR$/src/Advance/RegularExpression/PhoneNumberREGEX.java" />
+        <option value="$PROJECT_DIR$/src/Advance/RegularExpression/Main.java" />
       </list>
     </option>
   </component>
@@ -196,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,13 +241,32 @@
               <item name="Java-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Advance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="RegularExpression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="StoringObjectsToList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Payroll" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +276,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -255,13 +302,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance.FileIO.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance.Arrays.Main" />
       <module name="TechCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance.FileIO.*" />
+          <option name="PATTERN" value="Advance.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,24 +330,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance.Inheritance.Main" />
+      <option name="MAIN_CLASS_NAME" value="Advance.StoringObjectsToList.Main" />
       <module name="TechCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance.Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance.Lists.ArrayList.Main" />
-      <module name="TechCamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance.Lists.ArrayList.*" />
+          <option name="PATTERN" value="Advance.StoringObjectsToList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +343,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance.Lists.LinkedLists.Main" />
+      <option name="MAIN_CLASS_NAME" value="Advance.RegularExpression.Main" />
       <module name="TechCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance.Lists.LinkedLists.*" />
+          <option name="PATTERN" value="Advance.RegularExpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,13 +368,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneNumberREGEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance.RegularExpression.PhoneNumberREGEX" />
+      <module name="TechCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advance.RegularExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.PhoneNumberREGEX" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -366,12 +413,15 @@
       <workItem from="1562082226449" duration="4775000" />
       <workItem from="1587064760526" duration="2357000" />
       <workItem from="1587106267223" duration="3136000" />
-      <workItem from="1587112258681" duration="1455000" />
+      <workItem from="1587112258681" duration="2193000" />
+      <workItem from="1587130644220" duration="11000" />
+      <workItem from="1587130711364" duration="918000" />
+      <workItem from="1587395902097" duration="3603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48972000" />
+    <option name="totallyTimeSpent" value="54242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,7 +436,7 @@
     <frame x="-1" y="28" width="1602" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2953668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3069498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,7 +445,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34679666" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34679666" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972144" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,7 +453,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31058496" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31058496" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32729805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -543,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Advance/Encapsulation/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Advance/Inheritance/Polygon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -630,6 +673,37 @@
     <entry file="file://$PROJECT_DIR$/filename.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exersices/Payroll/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exersices/Payroll/PayrollTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Advance/FileIO/Template.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -637,13 +711,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Advance/Lists/ArrayList/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -678,34 +745,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/Advance/Encapsulation/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="563">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exersices/Payroll/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Advance/Arrays/Template.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exersices/Payroll/PayrollTemplate.java">
+    <entry file="file://$PROJECT_DIR$/src/Advance/Arrays/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="293">
-            <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/Student1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Advance/Lists/ArrayList/Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="36" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/StudentTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Advance/RegularExpression/PhoneNumberREGEX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Advance/RegularExpression/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
