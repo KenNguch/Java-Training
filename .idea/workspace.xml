@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24812570-c5f3-4d90-acdb-ee01b3ce8c89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance/Arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Arrays/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/RegularExpression/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/RegularExpression/PhoneNumberREGEX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/StoringObjectsToList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/StoringObjectsToList/StudentTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/MDFHashing/CryptoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/MDFHashing/EncryptorAesGcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/MDFHashing/EncryptorAesGcmPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/MDFHashing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance/Encapsulation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance/Encapsulation/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance/Overriding/src/Animal/TestObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance/Overriding/src/Animal/TestObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance/Polymorphism/src/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance/Polymorphism/src/Animal/dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance/Polymorphism/src/Animal/TestObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance/Polymorphism/src/Animal/TestObject.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,127 +19,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Encapsulation/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Arrays/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/StoringObjectsToList/StudentTemplate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/RegularExpression/PhoneNumberREGEX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Advance/RegularExpression/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Arrays/Template.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Lists/ArrayList/Template.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="36" selection-start-line="23" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Lists/ArrayList/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Advance/Encapsulation/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -209,12 +87,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-294" />
     <option name="y" value="34" />
     <option name="width" value="1400" />
     <option name="height" value="804" />
   </component>
+  <component name="ProjectId" id="2C9ZGEUMpXaXRvsekVkJAVhBSRo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -269,15 +151,17 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "app.teamhub.trackedBranches": "-1jrsabq/master",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Resources" />
@@ -290,25 +174,13 @@
       <recent name="$PROJECT_DIR$/src/Intermidiate" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance.Arrays.Main" />
+  <component name="RunManager" selected="Application.Advance.MDFHashing.Main">
+    <configuration name="Advance.MDFHashing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance.MDFHashing.Main" />
       <module name="TechCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance.Arrays.*" />
+          <option name="PATTERN" value="Advance.MDFHashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance.Encapsulation.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance.Arrays.Main" />
       <module name="TechCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance.Encapsulation.*" />
+          <option name="PATTERN" value="Advance.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,14 +255,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Advance.MDFHashing.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PhoneNumberREGEX" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -417,6 +290,7 @@
       <workItem from="1587130644220" duration="11000" />
       <workItem from="1587130711364" duration="918000" />
       <workItem from="1587395902097" duration="3603000" />
+      <workItem from="1658216673950" duration="3414000" />
     </task>
     <servers />
   </component>
@@ -499,7 +373,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,7 +381,6 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exersices/Payroll/Main.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
